@@ -95,17 +95,17 @@ Table of Contents
 - Where the Crawdads Sing(Delia Owens)
 - Who(Geoff Smart, Randy Street)
 - Willpower(Roy F. Baumeister, John Tierney)
-    - Crash(J.G. Ballard)
-    - Journey to Ixtlan: The Lessons of Don Juan(Carlos Castaneda)
-    - Norwegian Wood(Haruki Murakami)
-    - On the Road(Jack Kerouac)
-    - Perfume(Patrick Süskind)
-    - Portrait of the Artist as a Young Man(James Joyce)
-    - Swann's Way(Marcel Proust)
-    - The Invention of Morel(Adolfo Bioy Casare)
-    - The Peregrine(J.A. Baker)
-    - The Prince(Machiavelli)
-    - The Trouble With Being Born(E.M. Cioran)
+- Crash(J.G. Ballard)
+- Journey to Ixtlan: The Lessons of Don Juan(Carlos Castaneda)
+- Norwegian Wood(Haruki Murakami)
+- On the Road(Jack Kerouac)
+- Perfume(Patrick Süskind)
+- Portrait of the Artist as a Young Man(James Joyce)
+- Swann's Way(Marcel Proust)
+- The Invention of Morel(Adolfo Bioy Casare)
+- The Peregrine(J.A. Baker)
+- The Prince(Machiavelli)
+- The Trouble With Being Born(E.M. Cioran)
 
 # Comp Sci
 - AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence(Laurence Moroney)
@@ -294,7 +294,7 @@ Table of Contents
 - Traction(Gabriel Weinberg, Justin Mares)
 - Why Has Nobody Told Me This Before(Dr Julie Smith)
 - Why we sleep(Matthew Walker)
-    - So Good They Can't Ignore You (Cal Newport)
+- So Good They Can't Ignore You (Cal Newport)
 
 # Business
 - Anything You Want(Derek Sivers)
@@ -483,8 +483,11 @@ Table of Contents
 - Mostly Harmless
 
 # Brandon Sanderson books
-- Elantris(Brandon Sanderson)
--------------Mistborn-----------------------
+
+- Elantris
+
+## Mistborn
+---
 - (0.5)The Eleventh Metal
 - (1)The Final Empire
 - (2)The Well of Ascension
@@ -495,7 +498,9 @@ Table of Contents
 - (5)Shadows of Self
 - (6)The Bands of Mourning
 - (7)The Lost Metal
---------------------------------------------------
+
+## Other
+---
 - The Way of Kings(Brandon Sanderson)
 
 # A song of ice and fire
@@ -648,21 +653,22 @@ Table of Contents
 - The myth of Sisyphus(Albert Camus)
 - What is Philosophy(Félix Guattari and Gilles Deleuze)
 - Wittgenstein's Antiphilosophy(Alain Badiou)
--------------Advanced reading-------------------
+## Advanced reading
+---
 - The Roman Stoics(Gretchen Reydams-Schils)
 - The Morality of Happiness(Julia Annas)
 - The Therapy of Desire(Martha C. Nussbaum)
 
 # Philosophical Science Fiction
---------------------------------------
+---
 - Hyperion(Dan Simmons)
 - The Fall of Hyperion(Dan Simmons)
---------------------------------------
+---
 - Snow Crash(Neal Stephenson)
---------------------------------------
+---
 - Children of Time(Adrian Tchaikovsky)
 - Children of Ruin(Adrian Tchaikovsky)
 - Children of Memory(Adrian Tchaikovsky)
---------------------------------------
+---
 - A Memory Called Empire(Arkady Martine)
 - A Desolation Called Peace(Arkady Martine)
