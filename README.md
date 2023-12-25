@@ -487,7 +487,6 @@ Table of Contents
 - Elantris
 
 ## Mistborn
----
 - (0.5)The Eleventh Metal
 - (1)The Final Empire
 - (2)The Well of Ascension
@@ -500,7 +499,6 @@ Table of Contents
 - (7)The Lost Metal
 
 ## Other
----
 - The Way of Kings(Brandon Sanderson)
 
 # A song of ice and fire
@@ -654,7 +652,6 @@ Table of Contents
 - What is Philosophy(Félix Guattari and Gilles Deleuze)
 - Wittgenstein's Antiphilosophy(Alain Badiou)
 ## Advanced reading
----
 - The Roman Stoics(Gretchen Reydams-Schils)
 - The Morality of Happiness(Julia Annas)
 - The Therapy of Desire(Martha C. Nussbaum)
