@@ -45,10 +45,10 @@ Table of Contents
 * [Philosophical Science Fiction](#philosophical-science-fiction)
 
 # Uncategorised 
-	- One Bright Moon(Andrew Kwong)
-	- Oversubscribed(Daniel Priestley)
-	- Powerful(Patty McCord)
-	- Predictably Irrational(Dan Ariely)
+- One Bright Moon(Andrew Kwong)
+- Oversubscribed(Daniel Priestley)
+- Powerful(Patty McCord)
+- Predictably Irrational(Dan Ariely)
 	- Pride and Prejudice(Jane Austen)
 	- Primalbranding(Patrick Hanlon)
 	- Principles(Ray Dalio)
