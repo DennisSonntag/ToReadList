@@ -1,4 +1,43 @@
-# Uncategorised
+Table of Contents
+=================
+
+* [Uncategorised](#uncategorised)
+* [Comp Sci](#comp-sci)
+* [Japanese Books](#japanese-books)
+* [Manga](#manga)
+* [Self Help](#self-help)
+* [Business](#business)
+* [Finance](#finance)
+* [History](#history)
+* [Biography's](#biographys)
+* [Fiction](#fiction)
+* [Poetry](#poetry)
+* [Nonfiction](#nonfiction)
+* [Writing](#writing)
+* [Austin kleon trilogy](#austin-kleon-trilogy)
+* [The Seth Godin collection](#the-seth-godin-collection)
+* [Hank Green](#hank-green)
+* [Robert Greene](#robert-greene)
+* [Tim faris](#tim-faris)
+* [Percy Jackson](#percy-jackson)
+* [Friedrich Nietzsche](#friedrich-nietzsche)
+* [Lord of the rings(J.R.R. Tolkien)](#lord-of-the-ringsjrr-tolkien)
+* [Hitch hikers guide to the galaxy(Douglas Adams)](#hitch-hikers-guide-to-the-galaxydouglas-adams)
+* [Brandon Sanderson books](#brandon-sanderson-books)
+* [A song of ice and fire](#a-song-of-ice-and-fire)
+* [Six of crows(Leigh Bardugo)](#six-of-crowsleigh-bardugo)
+* [Wheel of time series(Robert Jordan,Brandon Sanderson)](#wheel-of-time-seriesrobert-jordanbrandon-sanderson)
+* [The hunger games(Suzanne Collins)](#the-hunger-gamessuzanne-collins)
+* [Dune series(Frank Herbert)](#dune-seriesfrank-herbert)
+* [Enders game series(Orson Scott Card)](#enders-game-seriesorson-scott-card)
+* [Jurassic park series(Michael Crichton)](#jurassic-park-seriesmichael-crichton)
+* [Ready Player One(Ernest Cline)](#ready-player-oneernest-cline)
+* [H.P Lovecraft](#hp-lovecraft)
+* [Steven king](#steven-king)
+* [Philosophy](#philosophy)
+* [Philosophical Science Fiction](#philosophical-science-fiction)
+
+# Uncategorised 
 	- One Bright Moon(Andrew Kwong)
 	- Oversubscribed(Daniel Priestley)
 	- Powerful(Patty McCord)
@@ -148,6 +187,7 @@
     - My neighbor Totoro
     - Sensor(Junji Ito)
     - Shiver(Junji ITO)
+
 
 # Self Help
 	- A Book of Five Rings(Miyamoto Musashi)
@@ -382,7 +422,7 @@
 	- Tribe of Mentors
 	- The 4-hour Workweek
 
-# Percy Jackson reading order
+# Percy Jackson 
 	- The Lightning Thief
 	- Sea of Monsters The (Percy Jackson and the Olympians Book 2)
 	- Titan's Curse The (Percy Jackson and the Olympians Book 3)
@@ -487,6 +527,7 @@
 	- The Gathering Storm
 	- Towers of Midnight
 	- A Memory of Light
+
 
 # The hunger games(Suzanne Collins)
 	- (0)The Ballad of Songbirds and Snakes
